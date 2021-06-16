@@ -28,12 +28,12 @@ Integrity: Ensure R-R interbeat intervals transmitted without structural variati
 Confidentiality: Secure Protected Health Information (PHI) transmitted over the wireless link.
 
 ## Recommendations
-During normal transmission, device Bluetooth receiver sensitivity was normal, but some sensitivity drop contributed to a 36% drop in availability of the link. 
-The results show that capacity utilization is less than 50%. 
-Average RxLev is about -70dBm. 
-The receiver experiences desensitization possibly due to hardware failure. 
-Currently the system availability can  only be guaranteed at 99.759% of the time. 
-Due to HIPAA confidentiality requirements, recommendation is to discontinue the transmission of personal health data (PHI) over the link that might violate HIPPA regulations.
+- During normal transmission, device Bluetooth receiver sensitivity was normal, but some sensitivity drop contributed to a 36% drop in availability of the link. 
+- The results show that capacity utilization is less than 50%. 
+- Average RxLev is about -70dBm. 
+- The receiver experiences desensitization possibly due to hardware failure. 
+- Currently the system availability can  only be guaranteed at 99.759% of the time. 
+- Due to HIPAA confidentiality requirements, the recommendation is to discontinue the transmission of personal health data (PHI) over the link that might violate HIPPA regulations.
 
 
 
